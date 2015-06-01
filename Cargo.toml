@@ -1,0 +1,8 @@
+[package]
+name = "foaas_cli"
+version = "0.1.0"
+authors = ["Andrew Myers <andrew.myers1984@gmail.com>"]
+
+[dependencies]
+hyper = "0.5.1"
+getopts = "0.2"
